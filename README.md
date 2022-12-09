@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there, 👋 I'm a front-end developer.<br><br>I work at Opleg, cloud-based legal practice management software.<br>🌱 Currently learning web accessibility and performance.<br>💬 Ask me about JavaScript and react.
+Hi there, I'm a front-end developer.<br><br>I work at Opleg, cloud-based legal practice management software.<br>🌱 Currently learning web accessibility and performance.<br>💬 Ask me about JavaScript and react.
 
 
 ## 🌐 Socials:
