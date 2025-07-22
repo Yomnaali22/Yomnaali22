@@ -1,4 +1,3 @@
-Hi there, I'm a Frontend Developer.<br><br>I work at Opleg, cloud-based legal practice management software.<br>🌱 Currently focusing on web accessibility and performance.<br>💬 Ask me about JavaScript, React, and Next JS.
 
 
 # 💻 Tech Stack:
